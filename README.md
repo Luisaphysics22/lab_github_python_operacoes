@@ -1,4 +1,4 @@
-# Lab Project 🧪🖥️- Resolvendo Códigos em Python 🐍 no GitHub Codespace com ChatGPT de assistente 🤖
+# Lab Project 🧪🖥️- Resolvendo Códigos em Python 🐍 no GitHub Codespace com ChatGPT de Assistente 🤖
 
 ## 1 - Concatenando Strings 🅰️➕🅱️🟰🆎
 
