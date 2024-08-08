@@ -47,3 +47,7 @@ Conceitos utilizados:
 - Números inteiros (int);
 - GitHub Codespace;
 - ChatGPT como assistente de programação.
+
+## 4 - Calculando a Média Aritmética das Notas dos Alunos 2️⃣➕4️⃣➕6️⃣/3️⃣
+
+Neste código em Python receberemos input dos usuários com três notas de um aluno e calcularemos a média aritmética dessas notas.
