@@ -51,3 +51,10 @@ Conceitos utilizados:
 ## 4 - Calculando a Média Aritmética das Notas dos Alunos 2️⃣➕4️⃣➕6️⃣/3️⃣
 
 Neste código em Python receberemos input dos usuários com três notas de um aluno e calcularemos a média aritmética dessas notas.
+
+Conceitos utilizados:
+- Input de dados;
+- Números decimais (float);
+- Aplicação de operadores aritméticos de soma e divisão para calcular a média de um conjunto de notas;
+- GitHub Codespace;
+- ChatGPT como assistente de programação.
