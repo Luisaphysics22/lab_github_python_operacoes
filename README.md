@@ -30,7 +30,7 @@ Neste código em Python receberemos input dos usuários com números inteiros e 
 
 Conceitos utilizados:
 - Operações de Matemática Básica;
-- Input de dados
+- Input de dados;
 - Números inteiros (int);
 - GitHub Codespace;
 - ChatGPT como assistente de programação.
@@ -39,3 +39,11 @@ Conceitos utilizados:
 ## 4 - Verificador de Números Pares e Ímpares 0️⃣2️⃣4️⃣6️⃣8️⃣🔟/1️⃣3️⃣5️⃣7️⃣9️⃣
 
 Neste código em Python receberemos input dos usuários com números inteiros e verificaremos se o número é digitado é par ou é ímpar.
+
+Conceitos utilizados:
+- Condicionais em Python (if e else);
+- Operação com módulo de um número inteiro (%);
+- Input de dados;
+- Números inteiros (int);
+- GitHub Codespace;
+- ChatGPT como assistente de programação.
