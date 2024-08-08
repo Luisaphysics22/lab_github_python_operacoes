@@ -24,7 +24,7 @@ Conceitos utilizados:
 - ChatGPT como assistente de programação.
 
 
-## 3 - Operações matemáticas simples ➕➖✖️➗🟰
+## 3 - Operações Matemáticas Simples ➕➖✖️➗🟰
 
 Neste código em Python receberemos input dos usuários com números inteiros e realizaremos operação matemáticas básicas como soma, subtração, multiplicação e divisão.
 
@@ -35,3 +35,7 @@ Conceitos utilizados:
 - GitHub Codespace;
 - ChatGPT como assistente de programação.
 
+
+## 4 - Verificador de Números Pares e Ímpares 0️⃣2️⃣4️⃣6️⃣8️⃣🔟/1️⃣3️⃣5️⃣7️⃣9️⃣
+
+Neste código em Python receberemos input dos usuários com números inteiros e verificaremos se o número é digitado é par ou é ímpar.
