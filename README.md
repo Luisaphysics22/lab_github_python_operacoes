@@ -48,7 +48,7 @@ Conceitos utilizados:
 - GitHub Codespace;
 - ChatGPT como assistente de programação.
 
-## 4 - Calculando a Média Aritmética das Notas dos Alunos 2️⃣➕4️⃣➕6️⃣/3️⃣
+## 5 - Calculando a Média Aritmética das Notas dos Alunos 2️⃣➕4️⃣➕6️⃣/3️⃣
 
 Neste código em Python receberemos input dos usuários com três notas de um aluno e calcularemos a média aritmética dessas notas.
 
@@ -56,5 +56,17 @@ Conceitos utilizados:
 - Input de dados;
 - Números decimais (float);
 - Aplicação de operadores aritméticos de soma e divisão para calcular a média de um conjunto de notas;
+- GitHub Codespace;
+- ChatGPT como assistente de programação.
+
+## 6 - Verificando Palíndromos 🔄️🔃
+
+Neste código em Python receberemos input dos usuários com palavras e verificaremos se a palavra é um palíndromo.
+
+Conceitos utilizados:
+- Input de dados;
+- Manipulação de Strings (string);
+- Fatiamento de Strings;
+- Condicionais em Python (if e else);
 - GitHub Codespace;
 - ChatGPT como assistente de programação.
